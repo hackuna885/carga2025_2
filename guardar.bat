@@ -1,3 +1,5 @@
+@echo off
+setlocal EnableDelayedExpansion
 git add *
-git commit -m "%date% %time%"
+git commit -m "!date! !time!"
 git push -u origin master
