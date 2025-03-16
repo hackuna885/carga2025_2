@@ -1,0 +1,190 @@
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	ROSAS DUARTE ROSA RUTH		
+Prototipos y Software 3D**			6	MARTINEZ VEGA FERMIN		
+Ilustración para Animación**			6	BAEZA FLORES MARIA DEL CARMEN		
+Proceso de Diseño**			5	ZAMACONA PRADO NAYELI		
+Guionismo y Storyboard**			5	ROJAS DIEGO RAUL		
+Proyecto Integrador I**			4	SERRANO SILVA IVAN ENRIQUE		
+Tutoría III**			1	ROSAS DUARTE ROSA RUTH		
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III_			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones_			4	OLMOS OLALDE VICTOR HUGO		
+Cálculo Integral_			4	BASTIDA MIRANDA JULIO		
+Tópicos de Calidad para el Diseño de Software_			6	RODRIGUEZ SANCHEZ LUIS FERNANDO		
+Bases de Datos_			5	HIDALGO BAEZA MARIA DEL CARMEN		
+Programación Orientada a Objetos_			7	LIMA ARRONA FERNANDO 		
+Proyecto Integrador I_			4	CASAS GOMEZ VICTOR MANUEL		
+Tutoría III_			1	HIDALGO BAEZA MARIA DEL CARMEN		
+Actividades Culturales y Deportivas III_			2	COORDINACIÓN DE DEPORTES		
+Inglés III_			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones_			4	OLMOS OLALDE VICTOR HUGO		
+Cálculo Integral_			4	CASAS GÓMEZ VÍCTOR MANUEL		
+Tópicos de Calidad para el Diseño de Software_			6	RODRIGUEZ SANCHEZ LUIS FERNANDO		
+Bases de Datos_			5	HIDALGO BAEZA MARIA DEL CARMEN		
+Programación Orientada a Objetos_			7	LIMA ARRONA FERNANDO 		
+Proyecto Integrador I_			4	MONDRAGÓN DIEGO JOSÉ LUIS		
+Tutoría III_			1	MONDRAGÓN DIEGO JOSÉ LUIS		
+Actividades Culturales y Deportivas III_			2	COORDINACIÓN DE DEPORTES		
+Matemáticas para Ingeniería I			4	GARCIA TRINIDAD ENRIQUE		
+Gestión de La Seguridad Informática			5	HERNANDEZ JIMENEZ ARTURO		
+Cómputo en la Nube			5	ALFARO LINARES SANDRA		
+Dirección de Proyectos I			4	VALADEZ VARGAS ALEJANDRO		
+Inglés VII			4	COORDINACIÓN DE INGLES		
+Planeación y Organización del Trabajo_*			3	TIRADOR GOMEZ DANIELA LIZETH		
+Hacking Ético			5	CRUZ GARCIA MISAEL		
+Automatización de Infraestructura Digital I			4	ALFARO LINARES SANDRA		
+Dirección de Proyectos II			4	VALADEZ VARGAS ALEJANDRO		
+Sistemas de Calidad para TI			3	HERNANDEZ JIMENEZ ARTURO		
+Optativa: Inteligencia de Negocios			3	PEREZ SANCHEZ RAFAEL		
+Inglés VIII			4	COORDINACIÓN DE INGLES		
+Dirección de Equipos de Alto Rendimiento			2	TIRADOR GOMEZ DANIELA LIZETH		
+Hacking Ético			5	CRUZ GARCIA MISAEL		
+Automatización de Infraestructura Digital I			4	ALFARO LINARES SANDRA		
+Dirección de Proyectos II			4	VALADEZ VARGAS ALEJANDRO		
+Sistemas de Calidad para TI			3	HERNANDEZ JIMENEZ ARTURO		
+Optativa: Inteligencia de Negocios			3	PEREZ SANCHEZ RAFAEL		
+Inglés VIII			4	COORDINACIÓN DE INGLES		
+Dirección de Equipos de Alto Rendimiento			2	TIRADOR GOMEZ DANIELA LIZETH		
+Inglés II.			5	COORDINACIÓN DE INGLES		
+Habilidades Socioemocionales y Manejo de Conflictos.			4	ROSAS DUARTE ROSA RUTH		
+Geometría Descriptiva.			5	MARQUEZ SANCHEZ DANIEL MAURICIO		
+Ilustración Digital.			6	LANDIN HERREJON JOSE LUIS GUSTAVO		
+Modelado Manual.			5	IBARRA VAZQUEZ JESSICA DANIELA		
+Representación Geométrica.			7	GARCIA ROMERO LUIS ANGEL		
+Mercadotecnia.			3	RODRIGUEZ RIVERA NAYELI BERENICE		
+Tutoría II.			1	MARQUEZ SANCHEZ DANIEL MAURICIO		
+Actividades Culturales y Deportivas II.			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	OLMOS OLALDE VICTOR HUGO		
+Prototipos y Software 3D**			6	MARTINEZ VEGA FERMIN		
+Ilustración para Animación**			6	BAEZA FLORES MARIA DEL CARMEN		
+Proceso de Diseño**			5	ZAMACONA PRADO NAYELI		
+Guionismo y Storyboard**			5	GONZALEZ GARCIA VERONICA		
+Proyecto Integrador I**			4	MENDOZA CALVA HECTOR RAUL		
+Tutoría III**			1			
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	OLMOS OLALDE VICTOR HUGO		
+Prototipos y Software 3D**			6	MARTINEZ VEGA FERMIN		
+Ilustración para Animación**			6	BAEZA FLORES MARIA DEL CARMEN		
+Proceso de Diseño**			5	ZAMACONA PRADO NAYELI		
+Guionismo y Storyboard**			5	ROJAS DIEGO RAUL		
+Proyecto Integrador I**			4	MENDOZA CALVA HECTOR RAUL		
+Tutoría III**			1	MENDOZA CALVA HECTOR RAUL		
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	ROSAS DUARTE ROSA RUTH		
+Prototipos y Software 3D**			6	MARTINEZ VEGA FERMIN		
+Ilustración para Animación**			6	BAEZA FLORES MARIA DEL CARMEN		
+Proceso de Diseño**			5	ZAMACONA PRADO NAYELI		
+Guionismo y Storyboard**			5	ROJAS DIEGO RAUL		
+Proyecto Integrador I**			4	SERRANO SILVA IVAN ENRIQUE		
+Tutoría III**			1	ROSAS DUARTE ROSA RUTH		
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	ROSAS DUARTE ROSA RUTH		
+Prototipos y Software 3D**			6	IBARRA VAZQUEZ JESSICA DANIELA		
+Ilustración para Animación**			6	SERRANO SILVA IVAN ENRIQUE		
+Proceso de Diseño**			5	ZAMACONA PRADO NAYELI		
+Guionismo y Storyboard**			5	ROJAS DIEGO RAUL		
+Proyecto Integrador I**			4	LANDIN HERREJON JOSE LUIS GUSTAVO		
+Tutoría III**			1	IBARRA VAZQUEZ JESSICA DANIELA		
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	OLMOS OLALDE VICTOR HUGO		
+Prototipos y Software 3D**			6	IBARRA VAZQUEZ JESSICA DANIELA		
+Ilustración para Animación**			6	MONROY TREJO ALEJANDRO		
+Proceso de Diseño**			5	ORDOÑEZ MORALES LUIS MARTIN		
+Guionismo y Storyboard**			5	GONZALEZ GARCIA VERONICA		
+Proyecto Integrador I**			4	RAMOS GAMA JOSELYN KAREN		
+Tutoría III**			1	GONZALEZ GARCIA VERONICA		
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	DESCHAMPS SOLORZANO JOSE ALEJANDRO		
+Prototipos y Software 3D**			6	TORRES HERNANDEZ LUIS ENRIQUE		
+Ilustración para Animación**			6	MONROY TREJO ALEJANDRO		
+Proceso de Diseño**			5	ORDOÑEZ MORALES LUIS MARTIN		
+Guionismo y Storyboard**			5	ROJAS DIEGO RAUL		
+Proyecto Integrador I**			4	ESPINOSA JIMENEZ MARIA MARGARITA		
+Tutoría III**			1	ESPINOSA JIMENEZ MARIA MARGARITA		
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	MARQUEZ SANCHEZ DANIEL MAURICIO		
+Prototipos y Software 3D**			6	GOMEZ GONZALEZ JORGE		
+Ilustración para Animación**			6	SERRANO SILVA IVAN ENRIQUE		
+Proceso de Diseño**			5	LANDIN HERREJON JOSE LUIS GUSTAVO		
+Guionismo y Storyboard**			5	ROJAS DIEGO RAUL		
+Proyecto Integrador I**			4	RODRIGUEZ RIVERA NAYELI BERENICE		
+Tutoría III**			1			
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Inglés III**			5	COORDINACIÓN DE INGLES		
+Desarrollo del Pensamiento y Toma de Decisiones**			4	ESPINOSA JIMENEZ MARIA MARGARITA		
+Prototipos y Software 3D**			6	GOMEZ GONZALEZ JORGE		
+Ilustración para Animación**			6	MONROY TREJO ALEJANDRO		
+Proceso de Diseño**			5	LANDIN HERREJON JOSE LUIS GUSTAVO		
+Guionismo y Storyboard**			5	GONZALEZ GARCIA VERONICA		
+Proyecto Integrador I**			4	GARCIA ROMERO LUIS ANGEL		
+Tutoría III**			1			
+Actividades Culturales y Deportivas III**			2	COORDINACIÓN DE DEPORTES		
+Física			4	GOMEZ GONZALEZ JORGE		
+Animación en 2D			5	TORRES HERNANDEZ LUIS ENRIQUE		
+Guionismo y Storyboard			4	LANDIN HERREJON JOSE LUIS GUSTAVO		
+Prototipos			5	IBARRA VAZQUEZ JESSICA DANIELA		
+Integradora I			2	GARCIA ROMERO LUIS ANGEL		
+Proceso de Diseño			4	SERRANO SILVA IVAN ENRIQUE		
+Diseño Editorial Digital			5	TELLEZ VELAZQUEZ SERGIO		
+Inglés IV			4	COORDINACIÓN DE INGLES		
+Formación Sociocultural IV			3	VILLA CUETO MA. ISABEL		
+Animación en 3D			8	OLMOS ZARIÑAN GRISELDA		
+Edición de Audio y Video			7	TELLEZ VELAZQUEZ SERGIO		
+Imagen Digital Animada			8	SERRANO SILVA IVAN ENRIQUE		
+Integradora II			2	ROJAS DIEGO RAUL		
+Inglés V			4	COORDINACIÓN DE INGLES		
+Expresión Oral y Escrita II			5	VILLA CUETO MA. ISABEL		
+Estadística			3	VARELA OLMOS VIOLETA		
+Semiótica y Hermenéutica			4	ORDOÑEZ MORALES LUIS MARTIN		
+Mercadotecnia Digital			3	RAMOS GAMA JOSELYN KAREN		
+Metodología de Diseño			4	BAEZA FLORES MARIA DEL CARMEN		
+Estética Digital			4	SERRANO SILVA IVAN ENRIQUE		
+Inglés VI			4	COORDINACIÓN DE INGLES		
+Administración del Tiempo			3	VILLA CUETO MA. ISABEL		
+Imagen Corporativa			6	ROJAS DIEGO RAUL		
+Diseño de Interfaz Web			4	CRUZ GARCIA MISAEL		
+Animación 2D Avanzada			7	MORENO LOAIZA CAROLINA		
+Inglés VII			4	COORDINACIÓN DE INGLES		
+Planeación y Organización del Trabajo			3	TORRES RODRIGUEZ KATHERINNE ARANZA		
+Imagen Corporativa			6	ROJAS DIEGO RAUL		
+Diseño de Interfaz Web			4	CRUZ GARCIA MISAEL		
+Animación 2D Avanzada			7	MORENO LOAIZA CAROLINA		
+Inglés VII			4	COORDINACIÓN DE INGLES		
+Planeación y Organización del Trabajo			3	TORRES RODRIGUEZ KATHERINNE ARANZA		
+Proceso de Producción Audiovisual			6	MALDONADO GUERRERO ALHAN GERARD		
+Diseño Publicitario y Medios Digitales			4	ORDOÑEZ MORALES LUIS MARTIN		
+Diseño Gráfico Experimental			3	BAEZA FLORES MARIA DEL CARMEN		
+Modelado y Espacios Virtuales			6	ISLAS GONZALEZ YUNUEN		
+Inglés VIII			4	COORDINACIÓN DE INGLES		
+Dirección de Equipos de Alto Rendimiento			2	TORRES RODRIGUEZ KATHERINNE ARANZA		
+Proceso de Producción Audiovisual			6	MALDONADO GUERRERO ALHAN GERARD		
+Diseño Publicitario y Medios Digitales			4	RAMOS GAMA JOSELYN KAREN		
+Diseño Gráfico Experimental			3	BAEZA FLORES MARIA DEL CARMEN		
+Modelado y Espacios Virtuales			6	ISLAS GONZALEZ YUNUEN		
+Inglés VIII			4	COORDINACIÓN DE INGLES		
+Dirección de Equipos de Alto Rendimiento			2	MURGUIA GONZALEZ CYNTHIA BEATRIZ		
+Proceso de Producción Audiovisual			6	MALDONADO GUERRERO ALHAN GERARD		
+Diseño Publicitario y Medios Digitales			4	RAMOS GAMA JOSELYN KAREN		
+Diseño Gráfico Experimental			3	GONZALEZ GARCIA VERONICA		
+Modelado y Espacios Virtuales			6	ISLAS GONZALEZ YUNUEN		
+Inglés VIII			4	COORDINACIÓN DE INGLES		
+Dirección de Equipos de Alto Rendimiento			2	MURGUIA GONZALEZ CYNTHIA BEATRIZ		
+Proceso de Producción Audiovisual			6	SERRANO SILVA IVAN ENRIQUE		
+Diseño Publicitario y Medios Digitales			4	ZAMACONA PRADO NAYELI		
+Diseño Gráfico Experimental			3	GONZALEZ GARCIA VERONICA		
+Modelado y Espacios Virtuales			6	ISLAS GONZALEZ YUNUEN		
+Inglés VIII			4	COORDINACIÓN DE INGLES		
+Dirección de Equipos de Alto Rendimiento			2	TIRADOR GOMEZ DANIELA LIZETH		
+Gestión de Proyectos			4	RAMOS GAMA JOSELYN KAREN		
+Postproducción Audiovisual			7	MALDONADO GUERRERO ALHAN GERARD		
+Animación de Personajes 3D			7	OLMOS ZARIÑAN GRISELDA		
+Integradora I_			2	RAMOS GAMA JOSELYN KAREN		
+Inglés IX			4	COORDINACIÓN DE INGLES		
+Negociación Empresarial			2	MURGUIA GONZALEZ CYNTHIA BEATRIZ		
